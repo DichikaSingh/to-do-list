@@ -1,9 +1,9 @@
 # to-do-list
-Developed for internal purpose.
-Tool & Tech. Stack
+##Developed for internal purpose.
+##Tool & Tech. Stack
 Python VS Code
 
-Guideline to run application
+###Guideline to run application
 Set python virtual env using below comands ( Applicable for window only )
 python -m venv .venv Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process .venv\scripts\activate
 
